@@ -41,7 +41,7 @@ dependencies: [
 ]
 ```
 
-Don't forget to add Arithmetic to your target dependencies:
+Don't forget to add RawDog to your target dependencies:
 
 ```swift
 targets: [
