@@ -26,11 +26,11 @@ It defines two protocols and an enum to handle arithmetic for types with fallibl
 - **ArithmeticForInfallibleType**: This protocol is for types that have an infallible initializer. The arithmetic operations always succeed and return non-optional values.
 - **BinaryIntegerDivisionStrategy**: This enum defines three strategies for handling division of binary integers: floor, round, and ceiling.
 
-## Tests
+## 🧪 Tests
 
 The library is fully tested with 100% code coverage
 
-## Installation
+## 💻 Installation
 
 ### Swift Package Manager
 To add RawDog to your project using Swift Package Manager, add the following dependency in your Package.swift file:
@@ -51,7 +51,7 @@ targets: [
 ]
 ```
 
-## Usage
+## 🛠️ Usage
 
 To use RawDog conform your RawRepresentable type to either the `ArithmeticForFallibleType` or `ArithmeticForInfallibleType` protocol, depending on whether your type has a fallible or infallible initializer.
 
@@ -100,7 +100,11 @@ a ~/= aDouble // 60
 
 ```
 
-## Contributing
+## 🐕‍🦺 Support
+
+Please [open an issue](https://github.com/ChristianFox/RawDog/issues/new) for support.
+
+## 👷‍♂️ Contributing
 
 Pull requests are welcome. I welcome developers of all skill levels to help improve the library, fix bugs, or add new features. 
 
@@ -108,9 +112,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Before submitting a pull request, please ensure that your code adheres to the existing code style and conventions, and that all tests pass. Additionally, if you're adding new functionality, please make sure to include unit tests to verify the behavior.
 
-If you have any questions or need assistance, feel free to open an issue, and I'll do my best to help you out. 
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/ChristianFox/RawDog/issues/new), and I'll do my best to help you out. 
 
-## Licence
+## 🪪 Licence
 
 RawDog is available under the MIT license. See the LICENSE file for more info.
 
