@@ -118,3 +118,5 @@ If you have any questions or need assistance, feel free to [open an issue](https
 
 RawDog is available under the MIT license. See the LICENSE file for more info.
 
+<a href="https://www.buymeacoffee.com/chrisfox" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
